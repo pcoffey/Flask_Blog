@@ -6,3 +6,9 @@ Project will have a fully functioning blog.
 * Upload photos  
 * Create accounts  
 * Write blog posts
+
+## What we are using:
+* Flask
+* Bootstrap
+* WT Forms
+* 
