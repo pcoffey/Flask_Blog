@@ -18,3 +18,5 @@ Project will have a fully functioning blog.
 * Postgres db
 * Re-Structure Project in Package due to conflicting imports
 that happen in larger Apps
+*  flask-bcrypt
+*  flask-login 
