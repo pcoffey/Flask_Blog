@@ -12,6 +12,9 @@ Project will have a fully functioning blog.
 * Bootstrap
 * WT Forms
 * SQLAlchemy - Also use terminal to explore  
-                the DB and set it up with sqlite 
+                the DB and set it up with sqlite
+                and setup Models 
 * SQLite db
 * Postgres db
+* Re-Structure Project in Package due to conflicting imports
+that happen in larger Apps
