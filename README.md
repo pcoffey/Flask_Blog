@@ -11,4 +11,7 @@ Project will have a fully functioning blog.
 * Flask
 * Bootstrap
 * WT Forms
-* 
+* SQLAlchemy - Also use terminal to explore  
+                the DB and set it up with sqlite 
+* SQLite db
+* Postgres db
