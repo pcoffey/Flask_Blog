@@ -18,5 +18,7 @@ Project will have a fully functioning blog.
 * Postgres db
 * Re-Structure Project in Package due to conflicting imports
 that happen in larger Apps
-*  flask-bcrypt
-*  flask-login 
+* flask-bcrypt
+* flask-login 
+* Photo Uploads (enctype="multipart/form-data" dont forget this for forms)
+* Use Pillow for resizing
