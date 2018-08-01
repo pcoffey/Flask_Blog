@@ -22,3 +22,4 @@ that happen in larger Apps
 * flask-login 
 * Photo Uploads (enctype="multipart/form-data" dont forget this for forms)
 * Use Pillow for resizing
+* Pagination
