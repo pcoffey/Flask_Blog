@@ -23,3 +23,5 @@ that happen in larger Apps
 * Photo Uploads (enctype="multipart/form-data" dont forget this for forms)
 * Use Pillow for resizing
 * Pagination
+* Flask mail
+* Itsdangerous
