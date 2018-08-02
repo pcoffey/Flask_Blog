@@ -25,3 +25,5 @@ that happen in larger Apps
 * Pagination
 * Flask mail
 * Itsdangerous
+* Blueprints
+* Application factory (Total restructure of app)
