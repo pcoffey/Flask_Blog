@@ -27,3 +27,4 @@ that happen in larger Apps
 * Itsdangerous
 * Blueprints
 * Application factory (Total restructure of app)
+* Custom 404
